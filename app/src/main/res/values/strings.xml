@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Social Media App</string>
+    <string name="Enter_the_content">Enter the content...</string>
+    <string name="post">Post</string>
+    <string name="do_you_want_to_logout">Do You Want To Logout ?</string>
+    <string name="logout">Logout</string>
+</resources>
